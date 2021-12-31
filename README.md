@@ -1,4 +1,4 @@
-# learning-note
+# learning-notes
 > Motivation、Passion、Evolution
 
 推荐[在线阅读网站](https://rbmon.gitee.io/learning-note/#/)
